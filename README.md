@@ -20,16 +20,16 @@ You can install these dependencies using the following command:
 
 ```bash
 pip install pandas spacy
-python -m spacy download en_core_web_sm` 
+python -m spacy download en_core_web_sm
 ```
 ## Usage
 
 1.  Clone this repository:
 
 ```bash
-git clone https://github.com/adil200/Named-Entity-Recognition.git` 
+git clone https://github.com/adil200/Named-Entity-Recognition.git
 ```
-2.  Download the dataset (`Airline_Reviews.csv`) and place it in the root directory of the project.
+2.  Download the dataset (`Airline_Reviews.csv`) and place it in the project's root directory.
     
 3.  Launch Jupyter Notebook and open the `named-entity-recognition.ipynb` notebook.
     
@@ -53,4 +53,4 @@ After processing the reviews and extracting named entities, you can observe the 
 
 ## Acknowledgments
 
-The code and techniques used in this project are inspired by various tutorials and resources on Named Entity Recognition and spaCy.
+Various tutorials and resources on Named Entity Recognition and spaCy inspire the code and techniques used in this project.
